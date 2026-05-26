@@ -24,12 +24,12 @@ export default function CookiePolicy() {
               <p>
                 nServe Technology LLC operates and manages the website{" "}
                 <a
-                  href="https://theglam.info"
+                  href="https://theglam.online"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-purple-400 hover:text-purple-300"
                 >
-                  theglam.info
+                  theglam.online
                 </a>{" "}
                 (referred to as &quot;the Website&quot;). To ensure the Website works efficiently and provides a smooth
                 user experience, we use cookies and similar technologies. These are stored on your device—such as a

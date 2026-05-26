@@ -24,12 +24,12 @@ export default function ComplaintContentRenewalPolicy() {
                 This Complaint Content Renewal Policy governs the review, removal, reinstatement, and renewal of
                 content on the website{" "}
                 <a
-                  href="https://www.theglam.info"
+                  href="https://www.theglam.online"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-purple-400 hover:text-purple-300"
                 >
-                  www.theglam.info
+                  www.theglam.online
                 </a>{" "}
                 following the submission of a complaint. This Policy shall be read in conjunction with the Site&apos;s
                 Terms of Service, Privacy Policy, and applicable laws and regulations.
