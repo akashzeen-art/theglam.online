@@ -136,7 +136,7 @@ export default function Index() {
                   <span className="text-purple-500"> TheGlam</span>
                 </h1>
                 <p className="text-lg text-white/90 mb-8 leading-relaxed max-w-2xl mx-auto">
-                  Premium Indian entertainment ka maza lijiye. Exclusive original content dekho, mast kahaniyan explore karo, aur unlimited streaming enjoy karo.
+                  Premium Bollywood entertainment ka maza lijiye. Exclusive original content dekho, mast kahaniyan explore karo, aur unlimited streaming enjoy karo.
                 </p>
               </div>
 
@@ -250,7 +250,7 @@ export default function Index() {
                     </div>
                   </div>
                   <div className="mt-2">
-                    <p className="text-xs text-white/80">{video.time}, Indian Content</p>
+                    <p className="text-xs text-white/80">{video.time}, Bollywood Content</p>
                     <h3 className="font-bold text-sm text-white">{video.title}</h3>
                   </div>
                 </div>
@@ -290,7 +290,7 @@ export default function Index() {
                           </div>
                         </div>
                         <div className="mt-2 max-w-[150px] mx-auto">
-                          <p className="text-xs text-white/80">{video.time}, Indian Content</p>
+                          <p className="text-xs text-white/80">{video.time}, Bollywood Content</p>
                           <h3 className="font-bold text-xs text-white">{video.title}</h3>
                         </div>
                       </div>
@@ -637,7 +637,7 @@ export default function Index() {
           <div className="max-w-6xl mx-auto">
             <div className="flex flex-col items-center text-center space-y-6">
               <img src="/logo.png" alt="TheGlam" className="w-40 h-40 object-contain" />
-              <p className="text-white/80 text-sm">Your gateway to Indian entertainment</p>
+              <p className="text-white/80 text-sm">Your gateway to Bollywood entertainment</p>
               <div className="border-t border-white/20 pt-6 w-full">
                 <p className="text-white/80 text-sm mb-2">&copy; 2025, nServe Technology LLC All Rights Reserved</p>
                 <div className="flex flex-wrap gap-2 justify-center text-white/80 text-sm">
